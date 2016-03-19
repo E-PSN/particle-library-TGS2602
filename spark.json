@@ -1,0 +1,7 @@
+{
+  "name": "PietteTech_DHT",
+  "author": "CCH <cch@e-psn.gr>",
+  "license": "GPL",
+  "version": "0.0.1",
+  "description": "A library that manages heat sensors"
+}
