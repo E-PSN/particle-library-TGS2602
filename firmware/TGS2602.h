@@ -15,7 +15,7 @@
   License: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
  
 */
-#include "SensorBase.h"
+#include "SensorBase/SensorBase.h"
 
 class TGS2602: public SensorBase {
   public:
